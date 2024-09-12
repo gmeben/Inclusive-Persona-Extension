@@ -1,4 +1,4 @@
-# Inclusive Persona Extension
+# インクルーシブなペルソナ拡張
 
 ## 視覚障害 (全盲)
 
