@@ -5,7 +5,7 @@
 ### Barriers to using the Web
 
 * Cannot see. Cannot understand the visual information.
-* Cannot use the Web without a text-to-speech feature (or braille output) of a screen reader.
+* Cannot use the Web without the text-to-speech feature (or braille output) of a screen reader.
 * Cannot use fingers or major pointing devices like a mouse to click or tap on items.
 
 ### Solutions
@@ -15,10 +15,10 @@
 * Use "real" text rather than images of text.
 * Mark up heading structures and landmarks appropriately.
 * Make all functionality operable through a keyboard
-* Link text and button labels alone should convey the purpose of those links and buttons.
+* The link text and button label alone should convey the purpose of the link and button.
 * Provide labels to identify form controls by using the `<label>` element.
 * Make the data table structure as simple as possible and use the `<th>` element for table header cells.
-* Use Web Accessibility Initiative – Accessible Rich Internet Applications (WAI-ARIA) attributes and make sure a screen reader user is aware of dynamic context changes.
+* Use WAI-ARIA attributes and make sure a screen reader user is aware of dynamic context changes.
 * Do not start playing any sounds automatically when the page is loaded.
 
 ## Visual Disabilities (Low Vision)
@@ -53,27 +53,27 @@
 ### Barriers to using the Web
 
 * Difficulty distinguishing between certain kinds of colors.
-    * Protanopia / Protanomaly (Low perception of or insensitivity to the color red)
-    * Deuteranopia / Deuteranomaly (Low perception of or insensitivity to the color green)
-    * Tritanopia / Tritanomaly (Low perception of or insensitivity to the color blue)
-    * Monochromacy (Low perception of or insensitivity to all colors)
+    * Protanopia / Protanomaly (Low or insensitivity to the color red)
+    * Deuteranopia / Deuteranomaly (Low or insensitivity to the color green)
+    * Tritanopia / Tritanomaly (Low or insensitivity to the color blue)
+    * Monochromacy
 * When printing a web page in grayscale, color-dependent information cannot be identified correctly.
 * When opening a web page with a monochrome e-reader, color-dependent information cannot be identified correctly.
 
 ### Solutions
 
 * Do not rely on color alone to communicate information.
-    * Add an underline to links (especially one in a sentence)
+    * Add an underline to the link (especially one in a sentence)
     * Express the visual hierarchy of text using non-color elements such as font size and thickness.
     * In figures (graphs, etc.), shapes other than colors should also be used as clues for visual identification.
 * Make content understandable / usable even when displaying it in grayscale.
 
-## Auditory Disabilities / In Public
+## Auditory Disabilities / In a public
 
 ### Barriers to using the Web
 
 * Hard of hearing or total loss of hearing.
-* Can't make sound in  a public space (transportation, library, etc.) including situations where listening devices are missing or have run out of battery, etc.
+* Can't make sound in  a public space (transportation, library, etc.) including situations where  the battery of Bluetooth headphones is dead, forgot to bring headphones, etc.
 
 ### Solutions
 
