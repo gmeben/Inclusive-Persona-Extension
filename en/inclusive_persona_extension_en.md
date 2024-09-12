@@ -73,7 +73,7 @@
 ### Barriers to using the Web
 
 * Hard of hearing or total loss of hearing.
-* Can't make sound in  a public space (transportation, library, etc.) including situations where  the battery of Bluetooth headphones is dead, forgot to bring headphones, etc.
+* Can't make sound in a public space (transportation, library, etc.) including situations where  the battery of Bluetooth headphones is dead, forgot to bring headphones, etc.
 
 ### Solutions
 
